@@ -62,7 +62,7 @@ export default function RecipeDialogContent({ recipe, onEdit, onClose }: Props) 
       <section>
         <h3 className="text-xl font-bold text-white mb-4 flex items-center gap-2">
           <Clock className="text-indigo-500" />
-          Preparation
+          Instructions
         </h3>
         <div className="relative">
           <div className="absolute left-4 top-0 bottom-0 w-0.5 bg-slate-800" />
