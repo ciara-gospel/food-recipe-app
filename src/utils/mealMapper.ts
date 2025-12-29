@@ -21,5 +21,6 @@ export function mapMealToRecipe(meal: any, isFavorite = false): Recipe {
     instructions: meal.strInstructions,
     ingredients,
     isFavorite,
+    youtube: meal.strYoutube,
   }
 }

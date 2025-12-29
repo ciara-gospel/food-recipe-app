@@ -7,4 +7,5 @@ export interface Recipe {
   instructions?: string
   ingredients: string[]
   isFavorite: boolean
+  youtube?: string
 }
