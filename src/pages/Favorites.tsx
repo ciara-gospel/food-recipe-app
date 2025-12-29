@@ -44,7 +44,7 @@ export default function Favorites() {
             <RecipeList recipes={favorites} onSelect={handleOpenDetails} />
           ) : (
             <div className="text-center py-20 bg-slate-900/50 rounded-3xl border border-dashed border-slate-800">
-              <p className="text-slate-500 text-lg">Your cookbook is empty.</p>
+              <p className="text-slate-800 text-lg">Your cookbook is empty.</p>
             </div>
           )}
         </section>
