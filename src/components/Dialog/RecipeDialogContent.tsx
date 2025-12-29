@@ -102,7 +102,7 @@ export default function RecipeDialogContent({ recipe, onEdit, onClose }: Props) 
             href={recipe.youtube} 
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center justify-center gap-2 w-full py-4 rounded-2xl bg-red-600/10 border border-red-600/20 text-red-500 font-bold hover:bg-red-600 hover:text-white transition-all"
+            className="flex items-center justify-center gap-2 w-full py-4 rounded-2xl bg-green-600/10 border border-green-600/20 text-green-500 font-bold hover:bg-green-600 hover:text-white transition-all"
           >
             Watch Video Tutorial on YouTube
           </a>
