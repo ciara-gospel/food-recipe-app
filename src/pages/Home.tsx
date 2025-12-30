@@ -45,7 +45,7 @@ export default function Home() {
         
         <section className="text-center space-y-4">
           <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight">
-            Find your next <span className="text-indigo-500">favorite meal</span>
+            Find your <span className="text-indigo-500">favorite meal</span>
           </h2>
           <p className="text-slate-700 text-lg">
             Search through hundreds of recipes or create your own masterpiece.
