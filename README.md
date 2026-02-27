@@ -1,4 +1,4 @@
-# 🍳 Food Recipe App
+# Food Recipe App
 
 A modern, responsive recipe discovery application built with React, TypeScript, Tailwind CSS, and TheMealDB API.
 
@@ -9,7 +9,7 @@ A modern, responsive recipe discovery application built with React, TypeScript, 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Problem Statement](#problem-statement)
 - [Project Goals](#project-goals)
@@ -23,7 +23,7 @@ A modern, responsive recipe discovery application built with React, TypeScript, 
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 ### Who has the problem?
 
@@ -45,7 +45,7 @@ This project provides:
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - [x] Build a scalable React + TypeScript application
 - [x] Integrate a real-world external API
@@ -56,7 +56,7 @@ This project provides:
 
 ---
 
-## 🏗 Technical Architecture
+## Technical Architecture
 
 ### Frontend Structure
 
@@ -101,36 +101,36 @@ This ensures favorites remain saved even after page refresh.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔍 Recipe Search
+### Recipe Search
 
 - Search recipes by name
 - Dynamic rendering of results
 - Modern card-based layout
 
-### 📖 Recipe Details
+### Recipe Details
 
 - Image preview with high-quality visuals
 - Complete ingredients list
 - Step-by-step cooking instructions
 - Modal dialog interface for smooth UX
 
-### ❤️ Favorites System
+### Favorites System
 
 - Add/remove recipes from favorites
 - Dynamic badge counter in header
 - Dedicated Favorites page
 - Persistent storage using localStorage
 
-### 📱 Responsive Design
+### Responsive Design
 
 - Mobile-first layout approach
 - Sticky gradient header
 - Flexible card grid system
 - Smooth hover transitions
 
-### 🎨 UI Enhancements
+### UI Enhancements
 
 - Tailwind utility-based styling
 - Gradient header design
@@ -140,18 +140,13 @@ This ensures favorites remain saved even after page refresh.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-🔗 **Live Demo URL**: [https://food-recipe-app-two-lyart.vercel.app/](https://food-recipe-app-two-lyart.vercel.app/)
+**Live Demo URL**: [https://food-recipe-app-two-lyart.vercel.app/](https://food-recipe-app-two-lyart.vercel.app/)
 
 ---
 
-## 💻 Installation
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
+## Installation
 
 ### Steps
 
@@ -178,7 +173,7 @@ This ensures favorites remain saved even after page refresh.
 5. **Open your browser**
    Navigate to `http://localhost:5173`
 
-### ⚙ Tailwind Configuration
+### Tailwind Configuration
 
 This project uses Tailwind CSS v4 with PostCSS.
 
@@ -201,7 +196,7 @@ module.exports = {
 
 ---
 
-## 🔧 Challenges Faced
+## Challenges Faced
 
 ### Frontend Challenge
 
@@ -223,7 +218,7 @@ Switching to proper ESM imports fixed the issue.
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 ### Technical Lessons
 
@@ -246,7 +241,7 @@ Switching to proper ESM imports fixed the issue.
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
 - [ ] User authentication system
 - [ ] Backend integration for cloud-stored favorites
@@ -261,31 +256,31 @@ Switching to proper ESM imports fixed the issue.
 
 ---
 
-## 🏅 Project Highlights
+## Project Highlights
 
-✅ Real-world API integration  
-✅ Global state management with React Context  
-✅ Persistent user data with localStorage  
-✅ Responsive mobile-first UI  
-✅ Clean architecture and separation of concerns  
-✅ Modern Tailwind CSS v4 usage  
-✅ Type-safe implementation with TypeScript  
+- Real-world API integration
+- Global state management with React Context
+- Persistent user data with localStorage
+- Responsive mobile-first UI
+- Clean architecture and separation of concerns
+- Modern Tailwind CSS v4 usage
+- Type-safe implementation with TypeScript
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Developed by Arlette Ologuie**
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [TheMealDB](https://www.themealdb.com/) for providing the free recipe API
 - React, Vite, and Tailwind CSS communities for excellent documentation
