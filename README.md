@@ -60,7 +60,8 @@ Demonstrate debugging and configuration skills
 
  4. Technical Architecture
 
-📁 Frontend Structure
+# Frontend Structure
+
 src/
  ├── components/
  ├── pages/
@@ -193,8 +194,9 @@ Clean spacing and layout system
 ](https://food-recipe-app-two-lyart.vercel.app/)
 
 - Installation
+  
  * Clone the repository
-git clone https://github.com/your-username/food-recipe-app.git
+git clone https://github.com/ciara-gospel/food-recipe-app.git
 * cd food-recipe-app
 * Install dependencies
 npm install
